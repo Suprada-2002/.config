@@ -1,0 +1,17 @@
+NOTICE
+------
+Runner.instance_.gameOver = () => {};
+
+PROJECTS
+----
+
+[x] UHC
+[x] PIPESCRIPT
+[x] BTSS
+[x] TYPETEST
+[x] portfolio website
+[ ] the hunt
+[x] RAZITE
+[ ] lib to manage callback
+[ ] todo manager for project
+[ ] no code website

@@ -1,0 +1,9 @@
+.bashrc
+.git-log
+.profile
+.Xresources
+.bash_logout
+.moc/themes/custom.txt
+.moc/config
+playlist.txt
+todo.txt

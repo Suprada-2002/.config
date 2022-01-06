@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/ayushmantripathy2004/hooghly/src/home'
+let g:netrw_dirhist_2='/home/ayushmantripathy2004/templates/src'
+let g:netrw_dirhist_3='/home/ayushmantripathy2004/dcapp/src'
+let g:netrw_dirhist_4='/home/ayushmantripathy2004/dcapp/src/routes'
+let g:netrw_dirhist_5='/home/ayushmantripathy2004/tmp/uhc-app'
+let g:netrw_dirhist_6='/home/ayushmantripathy2004/coin-tracker/src'
+let g:netrw_dirhist_7='/home/ayushmantripathy2004/hooghly/src/home'
+let g:netrw_dirhist_8='/home/ayushmantripathy2004/bin/.git/logs/refs/remotes/origin'
+let g:netrw_dirhist_9='/home/ayushmantripathy2004/uhc/src'
