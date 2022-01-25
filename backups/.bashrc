@@ -28,4 +28,8 @@ fi
 [ -f ~/.fzf.bash ] && source ~/.fzf.bash
 
 # custom commands at start
-figlet 'ayushman tripathy'
+
+export DAY_NO=$(node --eval "console.log( \
+  Math.floor((Date.now() - new Date('1/24/2022').getTime())/(24 * 60 * 60 * 1000))\
+  )" | toilet -f mono9.tlf)
+node ~/ideals.js
