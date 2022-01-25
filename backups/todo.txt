@@ -1,9 +1,16 @@
+MOVIES TO DOWNLOAD
+------------------
+https://hdhub4u.cx/spider-man-into-the-spider-verse-2018-bluray-hindi-english/
+https://eztvtorrentz.net/tv-series/mr-robot-2139
+https://ytstv.me/series/mr-robot-tv-series-2015#
+
 NOTICE
 ------
 Runner.instance_.gameOver = () => {};
+complete sherlock
 
 PROJECTS
-----
+--------
 
 [x] UHC
 [x] PIPESCRIPT
@@ -12,6 +19,11 @@ PROJECTS
 [x] portfolio website
 [ ] the hunt
 [x] RAZITE
-[ ] lib to manage callback
-[ ] todo manager for project
-[ ] no code website
+[x] tic tac toe ai
+[ ] snake game (hamilton)
+[ ] pong game
+
+TOPICS
+------
+
+search engine optimization

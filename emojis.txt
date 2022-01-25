@@ -263,14 +263,12 @@
 🦍	Gorilla
 🐶	Dog face
 🐕	Dog
-🐕‍🦺	Service dog
 🐩	Poodle
 🐺	Wolf
 🦊	Fox
 🦝	Racoon
 🐱	Cat face
 🐈	Cat
-🐈‍⬛	Black cat
 🦁	Lion
 🐯	Tiger face
 🐅	Tiger
@@ -308,7 +306,6 @@
 🦔	Hedgehog
 🦇	Bat
 🐻	Bear
-🐻‍❄️	Polar bear
 🐨	Koala
 🐼	Panda
 🦘	Kangaroo
