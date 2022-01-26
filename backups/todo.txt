@@ -1,6 +1,5 @@
-MOVIES TO DOWNLOAD
-------------------
-https://hdhub4u.cx/spider-man-into-the-spider-verse-2018-bluray-hindi-english/
+URLS
+----
 https://eztvtorrentz.net/tv-series/mr-robot-2139
 https://ytstv.me/series/mr-robot-tv-series-2015#
 https://ww2.1337x.buzz/search/
@@ -14,7 +13,12 @@ PROJECTS
 --------
 
 [x] UHC
-[x] PIPESCRIPT
+[ ] PIPESCRIPT
+    mantain pipescript
+    change readme
+    remove the svelte website mention
+    chage svelte app title
+
 [x] BTSS
 [x] TYPETEST
 [x] portfolio website

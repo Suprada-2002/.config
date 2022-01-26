@@ -29,7 +29,6 @@ fi
 
 # custom commands at start
 
-export DAY_NO=$(node --eval "console.log( \
+DAY_NO=$(node --eval "console.log( \
   Math.floor((Date.now() - new Date('1/24/2022').getTime())/(24 * 60 * 60 * 1000))\
-  )" | toilet -f mono9.tlf)
-node ~/ideals.js
+  )" | toilet -f mono12.tlf) node ~/ideals.js 
